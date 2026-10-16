@@ -125,7 +125,7 @@ Spectral Lab at the University of Victoria.
 
 Table 1: The table below shows the wavelengths at which each band was collected, along with
 the spatial resolution of the imagery.
-
+<div align="center">
 | Band     | Wavelength   | Spatial resolution   |
 |----------|:------------:|:--------------------:|
 | Green    | 560 nm ± 16 nm | 2592 × 1944 pixels |
@@ -133,7 +133,7 @@ the spatial resolution of the imagery.
 | Red-edge | 730 nm ± 16 nm | 2592 × 1944 pixels |
 | NIR      | 860 nm ± 26 nm | 2592 × 1944 pixels |
 | RGB      | –              | 4400 × 3305 pixels |
-
+</div>
 ### 3.0 Methods
 
 This study utilized remote sensing techniques to classify and quantify bryozoan coverage on
@@ -294,6 +294,7 @@ the bryozoan mask. While the model was able to identify the general areas of bry
 it was unable to detect the full extent of it at this location.
 
 Table 2: The table below presents the results calculated from each confusion matrix.
+<div align="center">
 | Test Site | Accuracy | Precision | Recall | F1 Score |
 |:---------:|:--------:|:---------:|:------:|:--------:|
 | 1 | 0.9735 | 0.8597 | 0.2741 | 0.4157 |
@@ -301,7 +302,7 @@ Table 2: The table below presents the results calculated from each confusion mat
 | 3 | 0.9956 | 0.2097 | 0.1663 | 0.1855 |
 | 4 | 0.9860 | 0.6191 | 0.1658 | 0.2616 |
 | 5 | 0.9860 | 0.6191 | 0.1658 | 0.2616 |
-
+<div/>
 ### 5.0 Discussion
 
 The algorithm developed in this study performed well in areas with a high abundance of
