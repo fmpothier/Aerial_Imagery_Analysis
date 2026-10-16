@@ -180,7 +180,9 @@ maps the lowest pixel value in the original image to the new minimum and the hig
 value to the new maximum, redistributing all intermediate values proportionally across the new
 range (1).
 
-FIX:::: new_value = ( value−minorig maxorig−minorig) × (maxnew− minnew) + minnew (1)
+```math
+\text{new value} = \left( \frac{\text{value} - \min_{orig}}{\max_{orig} - \min_{orig}} \right) \times (\max_{new} - \min_{new}) + \min_{new} \qquad (1)
+```
 
 As shown in Equation (1), the normalization process begins by linearly mapping the original
 pixel values, which lie within a specific range, to a new range [𝑚𝑖𝑛new, 𝑚𝑎𝑥new]. This involves
