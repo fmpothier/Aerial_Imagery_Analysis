@@ -1,0 +1,65 @@
+<PAMDataset>
+  <Metadata domain="xml:XMP" format="xml">
+    <?xpacket begin="&#xFEFF;" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="DJI Meta Data" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:drone-dji="http://www.dji.com/drone-dji/1.0/" xmlns:GPano="http://ns.google.com/photos/1.0/panorama/" xmlns:Camera="http://pix4d.com/camera/1.0" xmp:ModifyDate="2024-08-07T12:41:32-07:00" xmp:CreateDate="2024-08-07T12:41:32-07:00" tiff:Make="DJI" tiff:Model="M3M" dc:format="image/TIF" drone-dji:Version="1.6" drone-dji:ImageSource="MS_G_CAMERA" drone-dji:GpsStatus="RTK" drone-dji:AltitudeType="RtkAlt" drone-dji:GpsLatitude="+53.008463060" drone-dji:GpsLongitude="-131.674222313" drone-dji:AbsoluteAltitude="-2.549" drone-dji:RelativeAltitude="+2.837" drone-dji:GimbalRollDegree="+180.00" drone-dji:GimbalYawDegree="-64.50" drone-dji:GimbalPitchDegree="-90.00" drone-dji:FlightRollDegree="+1.30" drone-dji:FlightYawDegree="+115.60" drone-dji:FlightPitchDegree="-2.70" drone-dji:FlightXSpeed="-0.1" drone-dji:FlightYSpeed="0.1" drone-dji:FlightZSpeed="0.0" drone-dji:CamReverse="0" drone-dji:GimbalReverse="0" drone-dji:SelfData="" drone-dji:RtkFlag="16" drone-dji:RtkStdLon="1.11259" drone-dji:RtkStdLat="1.40946" drone-dji:RtkStdHgt="2.58886" drone-dji:RtkDiffAge="0.00000" drone-dji:SurveyingMode="1" drone-dji:DewarpFlag="0" drone-dji:DewarpData="2022-08-02;2170.000000000000,2170.000000000000,0.000000000000,0.000000000000,0.000000000000,0.000000000000,0.000000000000,0.000000000000,0.000000000000" drone-dji:CalibratedFocalLength="2170.000000" drone-dji:CalibratedOpticalCenterX="1296.000000" drone-dji:CalibratedOpticalCenterY="972.000000" drone-dji:UTCAtExposure="2024-08-07T19:41:52.947298" drone-dji:ShutterType="Electronic" drone-dji:CameraSerialNumber="5HZO3AGGC3N01G" drone-dji:DroneModel="M3M" drone-dji:DroneSerialNumber="1581F5FKD234300DX16Q" drone-dji:CaptureUUID="29a0166cf866482eae228ba8b3ab8e45" drone-dji:RelativeOpticalCenterX="-7.229980" drone-dji:RelativeOpticalCenterY="18.371033" drone-dji:DewarpHMatrix="1.716200,0.000000,415.752014,0.000000,1.716200,309.813995,0.000000,0.000000,1.000000" drone-dji:VignettingFlag="0" drone-dji:VignettingData="-0.000072941, 1.141683e-06, -3.224044e-09, 5.587017e-12, -4.266557e-15, 1.232075e-18" drone-dji:LS_type="1" drone-dji:LS_status="2" drone-dji:Package_idx="34" drone-dji:Cfg_cnt="1" drone-dji:RawData="10293.000 8839.000 9575.000 7309.000" drone-dji:BandName="Green" drone-dji:BandFreq="560(+/-16)nm" drone-dji:Irradiance="12286.590" drone-dji:SensorGain="2.391" drone-dji:ExposureTime="1953" drone-dji:SensorGainAdjustment="0.500772" drone-dji:SensorIndex="1" drone-dji:DroneID="1581F5FKD234300DX16Q" crs:Version="7.0" crs:HasSettings="False" crs:HasCrop="False" crs:AlreadyApplied="False">
+          <Camera:RigName>M3M</Camera:RigName>
+          <Camera:RigCameraIndex>1</Camera:RigCameraIndex>
+          <Camera:BandName>Green</Camera:BandName>
+          <Camera:CentralWavelength>560</Camera:CentralWavelength>
+          <Camera:WavelengthFWHM>16</Camera:WavelengthFWHM>
+          <Camera:ModelType>perspective</Camera:ModelType>
+          <Camera:PrincipalPoint>2.593240,1.931598</Camera:PrincipalPoint>
+          <Camera:PerspectiveFocalLength>4.340000</Camera:PerspectiveFocalLength>
+          <Camera:PerspectiveFocalLengthUnits>mm</Camera:PerspectiveFocalLengthUnits>
+          <Camera:PerspectiveDistortion>
+            <rdf:Seq>
+              <rdf:li>0.012801</rdf:li>
+              <rdf:li>-0.048736</rdf:li>
+              <rdf:li>0.000000</rdf:li>
+              <rdf:li>-0.001312</rdf:li>
+              <rdf:li>-0.000269</rdf:li>
+            </rdf:Seq>
+          </Camera:PerspectiveDistortion>
+          <Camera:BlackCurrent>3200</Camera:BlackCurrent>
+          <Camera:SunSensor>11242.797</Camera:SunSensor>
+          <Camera:SunSensorExposureTime>0.182</Camera:SunSensorExposureTime>
+          <Camera:VignettingPolynomial>
+            <rdf:Seq>
+              <rdf:li>-7.294097e-05</rdf:li>
+              <rdf:li>1.141683e-06</rdf:li>
+              <rdf:li>-3.224044e-09</rdf:li>
+              <rdf:li>5.587017e-12</rdf:li>
+              <rdf:li>-4.266557e-15</rdf:li>
+              <rdf:li>1.232075e-18</rdf:li>
+            </rdf:Seq>
+          </Camera:VignettingPolynomial>
+          <Camera:VignettingCenter>
+            <rdf:Seq>
+              <rdf:li>1267.502197</rdf:li>
+              <rdf:li>948.529114</rdf:li>
+            </rdf:Seq>
+          </Camera:VignettingCenter>
+          <Camera:IsNormalized>0</Camera:IsNormalized>
+          <Camera:IrradianceExposureTime>0.182000</Camera:IrradianceExposureTime>
+          <Camera:IrradianceGain>64.000000</Camera:IrradianceGain>
+          <Camera:Irradiance>12286.589844</Camera:Irradiance>
+          <Camera:SunSensorYaw>115.599998</Camera:SunSensorYaw>
+          <Camera:SunSensorPitch>7.300000</Camera:SunSensorPitch>
+          <Camera:SunSensorRoll>1.300000</Camera:SunSensorRoll>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+    <?xpacket end="w"?>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">65520</MDI>
+      <MDI key="STATISTICS_MEAN">14021.623596505</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">5097.5822172444</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
