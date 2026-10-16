@@ -136,6 +136,7 @@ the spatial resolution of the imagery.
 | RGB      | –              | 4400 × 3305 pixels |
 
 </div>
+
 ### 3.0 Methods
 
 This study utilized remote sensing techniques to classify and quantify bryozoan coverage on
@@ -307,6 +308,7 @@ Table 2: The table below presents the results calculated from each confusion mat
 | 5 | 0.9860 | 0.6191 | 0.1658 | 0.2616 |
 
 </div>
+
 ### 5.0 Discussion
 
 The algorithm developed in this study performed well in areas with a high abundance of
