@@ -306,7 +306,7 @@ Table 2: The table below presents the results calculated from each confusion mat
 | 4 | 0.9860 | 0.6191 | 0.1658 | 0.2616 |
 | 5 | 0.9860 | 0.6191 | 0.1658 | 0.2616 |
 
-<div/>
+</div>
 ### 5.0 Discussion
 
 The algorithm developed in this study performed well in areas with a high abundance of
