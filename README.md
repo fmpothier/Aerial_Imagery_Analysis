@@ -117,7 +117,7 @@ red, red-edge, and NIR portions of the spectrum were collected, along with RGB i
 1). These images were taken at different times of day to ensure the tide was at an optimal level of
 below 2 meters, allowing for maximum visibility of the kelp.
 
-![Figure 1](Images/Figure_1.png)
+![Figure 1](Images/Study_area2.png)
 
 Figure 1. The map above shows the study area, Cumshewa Inlet, located off the coast of Haida
 Gwaii, BC. All imagery used in this study was collected by Aidan Wright and his team from the
