@@ -123,15 +123,16 @@ Figure 1. The map above shows the study area, Cumshewa Inlet, located off the co
 Gwaii, BC. All imagery used in this study was collected by Aidan Wright and his team from the
 Spectral Lab at the University of Victoria.
 
-FIX::::: Table 1: The table below shows the wavelengths at which each band was collected, along with
+Table 1: The table below shows the wavelengths at which each band was collected, along with
 the spatial resolution of the imagery.
 
-Bands Wavelengths Spatial resolution
-Green 560nm  16nm 2592 by 1944 pixels
-Red 650nm  16nm 2592 by 1944 pixels
-Red-edge 730nm  16nm 2592 by 1944 pixels
-NIR 860nm  26nm 2592 by 1944 pixels
-RGB image -- 4400 by 3305 pixels
+| Band     | Wavelength   | Spatial resolution   |
+|----------|:------------:|:--------------------:|
+| Green    | 560 nm ± 16 nm | 2592 × 1944 pixels |
+| Red      | 650 nm ± 16 nm | 2592 × 1944 pixels |
+| Red-edge | 730 nm ± 16 nm | 2592 × 1944 pixels |
+| NIR      | 860 nm ± 26 nm | 2592 × 1944 pixels |
+| RGB      | –              | 4400 × 3305 pixels |
 
 ### 3.0 Methods
 
@@ -293,12 +294,13 @@ the bryozoan mask. While the model was able to identify the general areas of bry
 it was unable to detect the full extent of it at this location.
 
 Table 2: The table below presents the results calculated from each confusion matrix.
-Test Site No. Accuracy Precision Recall F1 Score
-1 0.9735 0.8597 0.2741 0.4157
-2 0.9939 0.5442 0.2262 0.3196
-3 0.9956 0.2097 0.1663 0.1855
-4 0.9860 0.6191 0.1658 0.2616
-5 0.9860 0.6191 0.1658 0.2616
+| Test Site | Accuracy | Precision | Recall | F1 Score |
+|:---------:|:--------:|:---------:|:------:|:--------:|
+| 1 | 0.9735 | 0.8597 | 0.2741 | 0.4157 |
+| 2 | 0.9939 | 0.5442 | 0.2262 | 0.3196 |
+| 3 | 0.9956 | 0.2097 | 0.1663 | 0.1855 |
+| 4 | 0.9860 | 0.6191 | 0.1658 | 0.2616 |
+| 5 | 0.9860 | 0.6191 | 0.1658 | 0.2616 |
 
 ### 5.0 Discussion
 
