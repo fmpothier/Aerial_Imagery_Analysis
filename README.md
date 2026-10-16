@@ -201,7 +201,9 @@ transformation consists of two sequential steps: erosion and dilation, both perf
 defined kernel or moving window that scans the image in small segments. The opening
 transformation is mathematically represented as:
 
-(𝐴 ∘ 𝐵) = (𝐴 ⊖ 𝐵) ⊕ 𝐵 (2)
+```math
+(A \circ B) = (A \ominus B) \oplus B \qquad (2)
+```
 
 The Here, A represents the image, and B represents the structuring element (kernel). The
 process begins with erosion, where the image A is eroded by the kernel B. This step shrinks
