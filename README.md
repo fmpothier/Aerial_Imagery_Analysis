@@ -353,6 +353,8 @@ areas containing abundant bryozoan and others featuring seaweed. As a result, a 
 of 55% to 60% was expected, as the algorithm had to contend with mixed image features and
 varying amounts of bryozoan coverage across the sites.
 
+![Figure 7](Images/Figure_7.png)
+
 Figure 7. The image above shows test site three. A large portion of the image is covered in a mix
 of seaweed affecting the model’s ability to detect bryozoan.
 
